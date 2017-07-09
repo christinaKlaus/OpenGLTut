@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.9/Modules/WriteBasicConfigVersionFile.cmake
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/src/glfw3Config.cmake.in
+C:/Program Files/CMake/share/cmake-3.9/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/docs/Doxyfile.in
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/src/glfw_config.h.in
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/src/glfw3.pc.in
+G:/Programme/ogl-OpenGL-tutorial_0015_33/external/glfw-3.1.2/cmake_uninstall.cmake.in

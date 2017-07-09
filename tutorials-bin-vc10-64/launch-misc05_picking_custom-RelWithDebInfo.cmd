@@ -1,0 +1,9 @@
+cd G:/Programme/ogl-OpenGL-tutorial_0015_33/misc05_picking/
+set 
+
+if [%1]==[--debugger] (
+	SHIFT
+)
+
+"G:\Projects\tutorials-bin-vc10-64\RelWithDebInfo\misc05_picking_custom.exe"  
+pause
